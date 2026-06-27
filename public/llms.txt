@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-b8a4239c.zappy5.app
+https://example.com
 גלו עולם צבעוני של סקוושים ופופיטים להפגת מתחים והנאה חושית. קנייה אונליין קלה ומשלוח מהיר לכל הארץ. הצטרפו לאלפי ילדים ואספנים מרוצים עוד היום!
 
 ### תכונות
-https://-b8a4239c.zappy5.app/features
+https://example.com/features
 מרקם נימוח, צבעים מטורפים ותחושת סיפוק שאין שני לה. הכירו את התכונות שהופכות כל סקוושי ופופיט לחוויה ממכרת במיוחד. בואו לגעת בהבדל!
 
 ### אודות
-https://-b8a4239c.zappy5.app/about
+https://example.com/about
 מאהבה לסקוושים ותשוקה להפיץ חיוכים — הכירו את הסיפור של אלה, החלום שהפך לחנות אונליין שוקקת לצעצועי לחיצה. כי כל לחיצה מספרת סיפור!
 
 ### צור קשר
-https://-b8a4239c.zappy5.app/contact
+https://example.com/contact
 יש שאלה על סקוושי, פופיט או הזמנה? אנחנו כאן לכל שאלה, בקשה או סתם כדי לשמוע איזה צבע הכי מרגיע אתכם. צרו קשר ונחזור בקפיצה!
 
 ### Products
-https://-b8a4239c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - הסקוושים של אלה
 
 ### Cart
-https://-b8a4239c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-b8a4239c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-b8a4239c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-b8a4239c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-b8a4239c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-b8a4239c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - הסקוושים של אלה
 
 ### Category
-https://-b8a4239c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - הסקוושים של אלה
 
 ### תודה שפנית אלינו
-https://-b8a4239c.zappy5.app/thank-you
+https://example.com/thank-you
 הסקוושים של אלה - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b8a4239c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b8a4239c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b8a4239c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Toys & Collectibles E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b8a4239c.zappy5.app/sitemap.xml
-- Robots: https://-b8a4239c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b8a4239c.zappy5.app/llms-full.txt
-- Products (JSON): https://-b8a4239c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-b8a4239c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
