@@ -1,0 +1,108 @@
+# הסקוושים של אלה — Generative Engine Optimization Map
+
+> An online store specializing in squishies and pop-it fidget toys — colorful, tactile, and playful sensory toys that are popular among kids, teens, and collectors. The brand revolves around fun, stress relief, and satisfying textures, with a vibrant and energetic personality that appeals to a young and enthusiastic audience.
+
+---
+
+## Pages
+
+### בית
+https://-b8a4239c.zappy5.app
+גלו עולם צבעוני של סקוושים ופופיטים להפגת מתחים והנאה חושית. קנייה אונליין קלה ומשלוח מהיר לכל הארץ. הצטרפו לאלפי ילדים ואספנים מרוצים עוד היום!
+
+### תכונות
+https://-b8a4239c.zappy5.app/features
+מרקם נימוח, צבעים מטורפים ותחושת סיפוק שאין שני לה. הכירו את התכונות שהופכות כל סקוושי ופופיט לחוויה ממכרת במיוחד. בואו לגעת בהבדל!
+
+### אודות
+https://-b8a4239c.zappy5.app/about
+מאהבה לסקוושים ותשוקה להפיץ חיוכים — הכירו את הסיפור של אלה, החלום שהפך לחנות אונליין שוקקת לצעצועי לחיצה. כי כל לחיצה מספרת סיפור!
+
+### צור קשר
+https://-b8a4239c.zappy5.app/contact
+יש שאלה על סקוושי, פופיט או הזמנה? אנחנו כאן לכל שאלה, בקשה או סתם כדי לשמוע איזה צבע הכי מרגיע אתכם. צרו קשר ונחזור בקפיצה!
+
+### Products
+https://-b8a4239c.zappy5.app/products
+המוצרים שלנו - הסקוושים של אלה
+
+### Cart
+https://-b8a4239c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-b8a4239c.zappy5.app/checkout
+תשלום
+
+### Login
+https://-b8a4239c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-b8a4239c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-b8a4239c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-b8a4239c.zappy5.app/product/:slug
+פרטי המוצר - הסקוושים של אלה
+
+### Category
+https://-b8a4239c.zappy5.app/category/:slug
+מוצרים - הסקוושים של אלה
+
+### תודה שפנית אלינו
+https://-b8a4239c.zappy5.app/thank-you
+הסקוושים של אלה - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b8a4239c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b8a4239c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b8a4239c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הסקוושים של אלה
+An online store specializing in squishies and pop-it fidget toys — colorful, tactile, and playful sensory toys that are popular among kids, teens, and collectors. The brand revolves around fun, stress relief, and satisfying textures, with a vibrant and energetic personality that appeals to a young and enthusiastic audience.
+
+## Services/Products
+- סקוושים
+- פופיטים
+
+## Target Audience
+- אספנים צעירים
+- הורים קונים מתנות
+- מורים לחינוך מיוחד
+
+## Industry
+Toys & Collectibles E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b8a4239c.zappy5.app/sitemap.xml
+- Robots: https://-b8a4239c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b8a4239c.zappy5.app/llms-full.txt
+- Products (JSON): https://-b8a4239c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-b8a4239c.zappy5.app/product-feed.xml
